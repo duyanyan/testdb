@@ -1,5 +1,5 @@
 ---
-Name: mysql
+Name: testmysql
 Cartridge-Short-Name: MYSQL
 Architecture: noarch
 Display-Name: MySQL 5.5
@@ -10,7 +10,7 @@ Versions:
 - '5.5'
 Cartridge-Version: 0.2.11
 Compatible-Versions: []
-Cartridge-Vendor: redhat
+Cartridge-Vendor: dy
 License: GPL
 Vendor: Oracle
 Categories:
